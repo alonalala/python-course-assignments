@@ -12,3 +12,9 @@ The user is prompted to input a DNA sequence (in the 5' to 3' direction). The pr
 ## Sample Input
 ```text
 Enter a DNA sequence (5' to 3'): ATGCGTACGTTAGC
+
+## AI Usage
+* **AI Used:** Google Gemini
+* **Prompts used to generate this work:**
+    1. *"I have a Python assignment to create a script that performs a well-known scientific calculation from my field. Could we brainstorm some ideas relevant to molecular biology and genomics?"*
+    2. *"Let's build a DNA sequence analyzer. The program should take a DNA sequence string as input and calculate the reverse sequence, complement sequence, reverse complement, base composition, GC content percentage, melting temperature, and extinction coefficient based on standard reference formulas. Please help me structure the Python code and the accompanying README documentation."*
